@@ -15,7 +15,7 @@
   <tr>
     <td>
     	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
-			<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width=[ImageSize] height="50" title="Mail"/>
+			<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width=ImageSize height="50" title="Mail"/>
 		</a>
 		<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
 			<img src="https://i.hizliresim.com/drjt2sh.png" alt="LinkedIN" width="50" height="50" title="LinkedIN"/>
