@@ -55,6 +55,22 @@
 		<img src="https://i.hizliresim.com/h3duxrb.png" alt="Fusion360" width="40" height="40" title="Fusion360"/>
 	</a>
 </p>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+</table>
+
 <br />
 <p>
 	<a href="https://github.com/BurakKaragol">
