@@ -11,10 +11,10 @@
 <h3 align="left">Contact me:</h3>  
 <p align="left">
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/8zao70r.png" alt="Mail" width="40" height="40" title="Mail"/>
+		<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
 	</a>
 	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/nshcxog.png" alt="LinkedIN" width="40" height="40" title="LinkedIN"/>
+		<img src="https://i.hizliresim.com/drjt2sh.png" alt="LinkedIN" width="40" height="40" title="LinkedIN"/>
 	</a>
 	<a href="https://mrlulez.itch.io/" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/p7w3355.png" alt="Itch.io" width="40" height="40" title="Itch.io"/>
