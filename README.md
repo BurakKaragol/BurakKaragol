@@ -6,7 +6,7 @@
 
 - I like game designing. Trying to improve myself with jams
 
-deneme [size] deneme
+img size : [imgSize]
 
 <table align="left">
   <tr>
@@ -76,4 +76,4 @@ deneme [size] deneme
 	</a>
 </p>
 
-[size]: 40
+[imgSize]: "40"
