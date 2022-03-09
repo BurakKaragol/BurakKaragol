@@ -8,7 +8,7 @@
 
 - Hope you like my work
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 	<ul>
 		<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
 			<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
