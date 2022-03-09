@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  </p>
 
-[Mail](email.png)
+[![email.png]](mailto:burak.karagol@outlook.com)
 
 []
 
