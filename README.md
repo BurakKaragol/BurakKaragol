@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-between;">
 	<h3 align="left">Contact me:</h3>  
-	<p align="left">
+	<p>
 		<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
 			<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
 		</a>
@@ -25,7 +25,7 @@
 		</a>
 	</p>
 	<h3 align="left">Languages:</h3>
-	<p align="left">
+	<p">
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
 		</a>
@@ -43,7 +43,7 @@
 		</a>
 	</p>
 	<h3 align="left">Programs:</h3>
-	<p align="left">
+	<p>
 		<a href="https://unity.com/" target="_blank" rel="noreferrer">
 			<img src="https://i.hizliresim.com/raocxl5.png" alt="Unity" width="40" height="40" title="Unity"/>
 		</a>
