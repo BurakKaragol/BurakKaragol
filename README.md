@@ -10,9 +10,6 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  </p>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/BurakKaragol)
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/BurakKaragol)
-
 [![Mail](https://www.google.com)]
 
 [![LinkedIN](https://www.google.com)]
