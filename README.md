@@ -10,7 +10,7 @@
 <h3 align="left">Contact me:</h3>  
 <p align="left">
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
-		<img src="" alt="c" width="40" height="40"/>
+		<img src="https://www.hizliresim.com/ifm4dnq" alt="c" width="40" height="40"/>
 	</a>
 	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
 		<img src="" alt="Mail" width="40" height="40"/>
