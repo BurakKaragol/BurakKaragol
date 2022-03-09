@@ -9,7 +9,7 @@
 - Hope you like my work
 
 <div>
-	<div>
+	<div style="float: left;" width="33%">
 		<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
 			<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
 		</a>
@@ -23,7 +23,7 @@
 			<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40" title="Instagram"/>
 		</a>
 	</div>
-	<div>
+	<div style="float: left;" width="33%">
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
 		</a>
@@ -40,7 +40,7 @@
 			<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40" title="Bash"/>
 		</a>
 	</div>
-	<div>
+	<div style="float: left;" width="33%">
 		<a href="https://unity.com/" target="_blank" rel="noreferrer">
 			<img src="https://i.hizliresim.com/raocxl5.png" alt="Unity" width="40" height="40" title="Unity"/>
 		</a>
