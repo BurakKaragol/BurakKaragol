@@ -23,7 +23,6 @@
 		<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40" title="Instagram"/>
 	</a>
 </p>
-<br />
 <h3 align="left">Languages:</h3>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
