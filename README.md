@@ -16,6 +16,8 @@
 
 [][Mail]
 
+[][LinkedIN]
+
 [][Itch.io]
 
 [][Instagram]
@@ -28,8 +30,10 @@
 
 
 
-[Itch.io]: 
+[LinkedIN] : https://www.linkedin.com/in/burak-karagol-3451b91b0/
 
-[Instagram]:
+[Itch.io]:  https://mrlulez.itch.io/
+
+[Instagram]: https://www.instagram.com/brkkaragol/?hl=tr
 
 
