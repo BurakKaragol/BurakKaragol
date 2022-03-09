@@ -9,7 +9,7 @@
 - Hope you like my work
 
 <h3 align="left">Contact me:</h3>  
-<p align="left" margin="5">
+<p align="left">
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
 	</a>
@@ -25,7 +25,7 @@
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" margin-left="5" margin-right="5">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
 	</a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
