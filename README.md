@@ -6,6 +6,8 @@
 
 - I like game designing. Trying to improve myself with jams
 
+deneme [size] deneme
+
 <table align="left">
   <tr>
     <th>Contact</th>
@@ -73,3 +75,5 @@
   	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true"/>
 	</a>
 </p>
+
+[size]: 40
