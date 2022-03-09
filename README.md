@@ -9,6 +9,7 @@
 - Hope you like my work
 
 <p>
+	<p>Contact: </p>
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
 	</a>
@@ -21,6 +22,7 @@
 	<a href="https://www.instagram.com/brkkaragol/?hl=tr" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40" title="Instagram"/>
 	</a>
+	<p>  Languages: </p>
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
 	</a>
@@ -36,6 +38,7 @@
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40" title="Bash"/>
 	</a>
+	<p>  Programs: </p>
 	<a href="https://unity.com/" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/raocxl5.png" alt="Unity" width="40" height="40" title="Unity"/>
 	</a>
