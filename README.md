@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!</h1>
-<h2 align="left">I'm Burak</h2>
+<h3 align="left">I'm Burak</h3>
 <h3 align="left">A Mechantronics Engineer who loves coding</h3>
 
 - I like to improve myself on new programming languages
