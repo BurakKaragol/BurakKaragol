@@ -6,7 +6,7 @@
 
 - I like game designing. Trying to improve myself with jams
 
-<table>
+<table align="center">
   <tr>
     <th>Contact</th>
     <th>Languages</th>
