@@ -74,4 +74,4 @@
 	</a>
 </p>
 
-[ImageSize]: "40"
+[ImageSize]: 40
