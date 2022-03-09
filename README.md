@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  </p>
 
-[<img src="file:///home/burak/Desktop/email.png" title="" alt="Mail" width="50">]
+[Mail](email.png)
 
-[<img src="file:///home/burak/Desktop/Linkedin.png" title="" alt="LinkedIN" width="50">]
+[]
 
 [<img src="file:///home/burak/Desktop/Itchio.png" title="" alt="Itch.io" width="50">]
 
