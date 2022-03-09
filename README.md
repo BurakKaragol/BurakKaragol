@@ -11,13 +11,13 @@
 <h3 align="left">Contact me:</h3>  
 <p align="left">
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/" alt="Mail" width="40" height="40" title="Mail"/>
+		<img src="https://i.hizliresim.com/8zao70r.png" alt="Mail" width="40" height="40" title="Mail"/>
 	</a>
 	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/" alt="LinkedIN" width="40" height="40" title="LinkedIN"/>
+		<img src="https://i.hizliresim.com/nshcxog.png" alt="LinkedIN" width="40" height="40" title="LinkedIN"/>
 	</a>
 	<a href="https://mrlulez.itch.io/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/" alt="Itch.io" width="40" height="40" title="Itch.io"/>
+		<img src="https://i.hizliresim.com/p7w3355.png" alt="Itch.io" width="40" height="40" title="Itch.io"/>
 	</a>
 	<a href="https://www.instagram.com/brkkaragol/?hl=tr" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40" title="Instagram"/>
@@ -44,7 +44,7 @@
 </p>
 <br />
 <a href="https://github.com/BurakKaragol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=prs,issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=prs,issues" width="50%"/>
 </a>
 <a href="https://github.com/BurakKaragol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true" width="50%"/>
