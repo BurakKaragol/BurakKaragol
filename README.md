@@ -8,51 +8,6 @@
 
 - Hope you like my work
 
-<p>
-	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
-	</a>
-	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/drjt2sh.png" alt="LinkedIN" width="40" height="40" title="LinkedIN"/>
-	</a>
-	<a href="https://mrlulez.itch.io/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/p7w3355.png" alt="Itch.io" width="40" height="40" title="Itch.io"/>
-	</a>
-	<a href="https://www.instagram.com/brkkaragol/?hl=tr" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40" title="Instagram"/>
-	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
-	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="40" height="40" title="C++"/>
-	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40" title="C#"/>
-	</a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40" title="Bash"/>
-	</a>
-	<a href="https://unity.com/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/raocxl5.png" alt="Unity" width="40" height="40" title="Unity"/>
-	</a>
-	<a href="https://www.unrealengine.com/en-US/branding" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/m8cdu6m.png" alt="Unreal Engine" width="40" height="40" title="Unreal Engine"/>
-	</a>
-	<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/fx9ulw8.png" alt="Blender" width="40" height="40" title="Blender"/>
-	</a>
-	<a href="https://www.solidworks.com/tr" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/jekzadm.png" alt="Solidworks" width="40" height="40" title="Solidworks"/>
-	</a>
-	<a href="https://www.autodesk.com/products/fusion-360/personal" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/h3duxrb.png" alt="Fusion360" width="40" height="40" title="Fusion360"/>
-	</a>
-</p>
-
 <table>
   <tr>
     <th>Contact</th>
