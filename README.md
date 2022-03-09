@@ -9,7 +9,7 @@
 - Hope you like my work
 
 <h3 align="left">Contact me:</h3>  
-<p align="left">
+<p align="left" margin="5">
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="40" height="40" title="Mail"/>
 	</a>
