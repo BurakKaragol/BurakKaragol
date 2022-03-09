@@ -30,7 +30,7 @@
 
 
 
-[LinkedIN] : https://www.linkedin.com/in/burak-karagol-3451b91b0/
+[LinkedIN]: https://www.linkedin.com/in/burak-karagol-3451b91b0/
 
 [Itch.io]:  https://mrlulez.itch.io/
 
