@@ -8,7 +8,7 @@
 
 - Hope you like my work
 
-<div>
+<div style="display: flex; justify-content: space-between;">
 	<h3 align="left">Contact me:</h3>  
 	<p align="left">
 		<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
