@@ -57,6 +57,7 @@
 			<img src="https://i.hizliresim.com/h3duxrb.png" alt="Fusion360" width="40" height="40" title="Fusion360"/>
 		</a>
 	</div>
+	<br style="clear: left;" />
 </div>
 <br />
 <p>
