@@ -6,8 +6,6 @@
 
 - I like game designing. Trying to improve myself with jams
 
-img size : [imgSize]
-
 <table align="left">
   <tr>
     <th>Contact</th>
@@ -75,5 +73,3 @@ img size : [imgSize]
   	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true"/>
 	</a>
 </p>
-
-[imgSize]: "40"
