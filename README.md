@@ -13,7 +13,7 @@
 		<img src="[url=https://www.hizliresim.com/ifm4dnq][img]https://i.hizliresim.com/ifm4dnq.[/img][/url]" alt="Mail" width="40" height="40"/>
 	</a>
 	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
-		<img src="" alt="LinkedIN" width="40" height="40"/>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxwOPNE2ZesnJPe82Ro2MuKl7vXLx1-yMGQ&usqp=CAU" alt="LinkedIN" width="40" height="40"/>
 	</a>
 	<a href="https://mrlulez.itch.io/" target="_blank" rel="noreferrer">
 		<img src="" alt="Itch.io" width="40" height="40"/>
