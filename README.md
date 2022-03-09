@@ -19,7 +19,7 @@
 
 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sdcaglar&theme=dark&show_icons=true&hide=contribs">](https://metrics.lecoq.io/sdcaglar?template=classic)
+https://metrics.lecoq.io/BurakKaragol?template=classic
 
 
 
