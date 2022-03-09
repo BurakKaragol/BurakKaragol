@@ -82,20 +82,10 @@
 	</a> 
 </p>
 
-
-
-[<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&hide=contribs">](https://metrics.lecoq.io/BurakKaragol?template=classic)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol)](https://github.com/BurakKaragol/github-readme-stats)
-
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BurakKaragol">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=26&hide=prs,issues" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/BurakKaragol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true" />
 </a>
 
