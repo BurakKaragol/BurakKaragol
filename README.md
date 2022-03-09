@@ -1,5 +1,7 @@
-<h1 align="center">Hello World! I'm Burak</h1>  
-<h3 align="center">A Mechantronics Engineer who loves coding</h3>
+<h1 align="center">Hello World!</h1>
+<br />
+<h2 align="left">I'm Burak</h2>
+<h3 align="left">A Mechantronics Engineer who loves coding</h3>
 
 - I like to improve myself on new programming languages
 
@@ -22,7 +24,7 @@
 		<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40"/>
 	</a>
 </p>
-
+<br />
 <h3 align="left">Languages:</h3>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -41,7 +43,7 @@
 		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40"/>
 	</a>
 </p>
-
+<br />
 <a href="https://github.com/BurakKaragol">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=prs,issues"/>
 </a>
