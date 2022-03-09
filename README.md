@@ -6,8 +6,6 @@
 
 - I like game designing. Trying to improve myself with jams
 
-- Hope you like my work
-
 <table>
   <tr>
     <th>Contact</th>
