@@ -10,16 +10,16 @@
 <h3 align="left">Contact me:</h3>  
 <p align="left">
 	<a href="mailto:burak.karagol@outlook.com" target="_blank" rel="noreferrer">
-		<img src="https://i.hizliresim.com/ifm4dnq.[/img][/url]" alt="Mail" width="40" height="40"/>
+		<img src="https://i.hizliresim.com/" alt="Mail" width="40" height="40"/>
 	</a>
 	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
-		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxwOPNE2ZesnJPe82Ro2MuKl7vXLx1-yMGQ&usqp=CAU" alt="LinkedIN" width="40" height="40"/>
+		<img src="https://i.hizliresim.com/" alt="LinkedIN" width="40" height="40"/>
 	</a>
 	<a href="https://mrlulez.itch.io/" target="_blank" rel="noreferrer">
-		<img src="" alt="Itch.io" width="40" height="40"/>
+		<img src="https://i.hizliresim.com/" alt="Itch.io" width="40" height="40"/>
 	</a>
 	<a href="https://www.instagram.com/brkkaragol/?hl=tr" target="_blank" rel="noreferrer">
-		<img src="" alt="Instagram" width="40" height="40"/>
+		<img src="https://i.hizliresim.com/fywnyys.png" alt="Instagram" width="40" height="40"/>
 	</a>
 </p>
 
