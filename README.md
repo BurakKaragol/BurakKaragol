@@ -25,7 +25,7 @@
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" margin-left="5" margin-right="5">
+	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
 	</a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -39,6 +39,24 @@
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40" title="Bash"/>
+	</a>
+</p>
+<h3 align="left">Programs:</h3>
+<p align="left">
+	<a href="https://unity.com/" target="_blank" rel="noreferrer">
+		<img src="https://i.hizliresim.com/mq7u5ur.png" alt="Unity" width="40" height="40" title="Unity"/>
+	</a>
+	<a href="https://www.unrealengine.com/en-US/branding" target="_blank" rel="noreferrer">
+		<img src="https://i.hizliresim.com/m8cdu6m.png" alt="Unreal Engine" width="40" height="40" title="Unreal Engine"/>
+	</a>
+	<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+		<img src="https://i.hizliresim.com/fx9ulw8.png" alt="Blender" width="40" height="40" title="Blender"/>
+	</a>
+	<a href="https://www.solidworks.com/tr" target="_blank" rel="noreferrer">
+		<img src="https://i.hizliresim.com/jekzadm.png" alt="Solidworks" width="40" height="40" title="Solidworks"/>
+	</a>
+	<a href="https://www.autodesk.com/products/fusion-360/personal" target="_blank" rel="noreferrer">
+		<img src="https://i.hizliresim.com/h3duxrb.png" alt="Fusion360" width="40" height="40" title="Fusion360"/>
 	</a>
 </p>
 <br />
