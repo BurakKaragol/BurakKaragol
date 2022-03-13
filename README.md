@@ -34,10 +34,10 @@
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
 	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+	<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="50" height="50" title="C++"/>
 	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50" title="C#"/>
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@
     	<a href="https://unity.com/" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/raocxl5.png" alt="Unity" width="50" height="50" title="Unity"/>
 	</a>
-	<a href="https://www.unrealengine.com/en-US/branding" target="_blank" rel="noreferrer">
+	<a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/3u1wfed.png" alt="Unreal Engine" width="50" height="50" title="Unreal Engine"/>
 	</a>
 	<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
