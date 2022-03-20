@@ -31,8 +31,6 @@
     	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" title="C"/>
 	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
 	</a>
 	<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="50" height="50" title="C++"/>
@@ -40,6 +38,8 @@
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50" title="C#"/>
 	</a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="50" height="50" title="Bash"/>
 	</a>
