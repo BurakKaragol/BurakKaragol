@@ -4,7 +4,7 @@
 
 - I like to improve myself on new programming languages
 
-- I like game designing. Trying to improve myself with jams
+- I like game designing. Trying to improve myself with game jams
 
 <table align="left">
   <tr>
