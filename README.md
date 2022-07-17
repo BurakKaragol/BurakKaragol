@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>
-    	<a href="mailto:burak.karagol@outlook.com?subject="Hello There" target="_blank" rel="noreferrer">
+    	<a href="mailto:burak.karagol@outlook.com?subject="Hello There"" target="_blank" rel="noreferrer">
 		<img src="https://i.hizliresim.com/cv4p86x.png" alt="Mail" width="50" height="50" title="Mail"/>
 	</a>
 	<a href="https://www.linkedin.com/in/burak-karagol-3451b91b0/" target="_blank" rel="noreferrer">
