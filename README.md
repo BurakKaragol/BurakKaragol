@@ -67,7 +67,7 @@
 <br />
 <p>
 	<a href="https://github.com/BurakKaragol">
-  		<img align="fill" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=issues"/>
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=issues"/>
 	</a>
 </p>
 <p>
