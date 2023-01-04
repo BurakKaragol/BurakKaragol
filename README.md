@@ -6,6 +6,7 @@
 
 - I like game designing. Trying to improve myself with game jams
 
+<br />
 <table align="left">
   <tr>
     <th>Contact</th>
@@ -67,11 +68,13 @@
 <br />
 <p>
 	<a href="https://github.com/BurakKaragol">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=issues"/>
+  		<img align="left" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=issues"/>
 	</a>
 </p>
+
+<br />
 <p>
 	<a href="https://github.com/BurakKaragol">
-  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true"/>
+  	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true"/>
 	</a>
 </p>
