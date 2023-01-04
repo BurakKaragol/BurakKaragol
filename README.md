@@ -67,9 +67,9 @@
 <br />
 <p>
 	<a href="https://github.com/BurakKaragol">
-  		<img align="left" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=prs,issues"/>
+  		<img align="center" src="[https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=prs,issues](https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=30&hide=issues)"/>
 	</a>
 	<a href="https://github.com/BurakKaragol">
-  	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true"/>
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact&show_icons=true"/>
 	</a>
 </p>
