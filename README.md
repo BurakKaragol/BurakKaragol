@@ -6,6 +6,8 @@
 
 - I like game designing. Trying to improve myself with game jams
 
+<a href="https://burakkaragol.github.io/" target="_blank" rel="noreferrer">View my portfolio</a>
+
 <br />
 <table align="left">
   <tr>
