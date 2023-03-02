@@ -70,13 +70,13 @@
 <br />
 <p>
 	<a href="https://github.com/BurakKaragol">
-  		<img align="left" src="https://github-readme-stats-git-master-burakkaragol-sigma-five.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=40px"/>
+  		<img align="left" src="https://github-readme-stats-sigma-five-git-master-burakkaragol.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=40px"/>
 	</a>
 </p>
 
 <br />
 <p>
 	<a href="https://github.com/BurakKaragol">
-  	<img align="left" src="https://github-readme-stats-git-master-burakkaragol-sigma-five.vercel.app/api/top-langs?username=BurakKaragol&theme=dark&show_icons=true&line_height=30px&hide=issues"/>
+  	<img align="left" src="https://github-readme-stats-sigma-five-git-master-burakkaragol-sigma-five.vercel.app/api/top-langs?username=BurakKaragol&theme=dark&show_icons=true&line_height=30px&hide=issues"/>
 	</a>
 </p>
