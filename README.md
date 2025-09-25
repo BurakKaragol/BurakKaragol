@@ -16,7 +16,6 @@
   		<img align="left" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true&line_height=40px"/>
 	</a>
 </p>
-
 <p>
 	<a href="https://github.com/BurakKaragol">
   	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&show_icons=true&line_height=40px"/>
