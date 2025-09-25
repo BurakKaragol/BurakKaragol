@@ -17,7 +17,6 @@
 	</a>
 </p>
 
-<br />
 <p>
 	<a href="https://github.com/BurakKaragol">
   	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&show_icons=true&line_height=40px"/>
