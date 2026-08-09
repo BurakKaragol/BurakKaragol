@@ -25,7 +25,7 @@
   </a>
   <br>
   <a href="https://burakkaragol.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Explore_My_World-252525?style=for-the-badge&logo=google-chrome&logoColor=white" width="350" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Explore_My_World-252525?style=for-the-badge" width="350" alt="Portfolio Badge"/>
   </a>
 </div>
 <br>
