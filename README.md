@@ -19,23 +19,13 @@
 <p align="center"><i>"Knowledge is valuable when shared ✌️"</i></p>
 <br>
 
-### 📬 Let's Connect
-<p align="center">
+<div align="center">
   <a href="https://burakkaragol.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Explore+My+World;Check+Out+My+Portfolio;See+My+Latest+Projects" alt="Typing SVG" />
   </a>
-</p>
-
+  <br>
+  <a href="https://burakkaragol.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Explore_My_World-252525?style=for-the-badge&logo=google-chrome&logoColor=white" width="350" alt="Portfolio Badge"/>
+  </a>
+</div>
 <br>
-
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/BurakKaragol">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BurakKaragol&theme=dark&show_icons=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/BurakKaragol">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKaragol&theme=dark&layout=compact"/>
-  </a>
-</p>
